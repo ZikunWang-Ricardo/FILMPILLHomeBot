@@ -98,5 +98,5 @@ docker-compose up --build
 
 ---
 
-## 🧑‍🍳 Made by Ricoo @FILMPill
+## 🧑‍🍳 Made by RicardoWang
 With GPT assistance and a lot of good food 😋
