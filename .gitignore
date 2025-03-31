@@ -1,0 +1,33 @@
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# 环境变量配置
+.env
+
+# 本地缓存数据
+notion_wines.json
+notion_grocery.json
+notion_recipes.json
+
+# 日志文件
+*.log
+logs/
+notion_sync.log
+
+# 临时图片文件（来自 Telegram 图片下载）
+*.jpg
+*.jpeg
+*.png
+*.tmp
+
+# VSCode 等编辑器配置
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
